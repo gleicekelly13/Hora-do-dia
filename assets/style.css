@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono&display=swap');
 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     background: rgb(57, 93, 252);
     font-family: 'Noto Sans Mono', monospace;
@@ -7,6 +13,8 @@ body {
 }
 
 header {
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
     color: white;
     text-align: center;
 }
@@ -27,7 +35,29 @@ div {
 
 footer {
     color: white;
-    text-align: center;
+    text-align: end;
     font-style: italic;
+    margin-top: 250px;
+    margin-right: 20px;
     
+}
+
+
+@media screen and (max-width: 550px){
+        section {
+            width: 400px;
+            
+        }
+}
+
+@media screen and (max-width: 480px) {
+    section {
+        width: 340px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    section {
+        width: 320px;
+    }
 }
