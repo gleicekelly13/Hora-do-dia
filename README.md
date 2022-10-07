@@ -20,3 +20,7 @@
 <h4>:white_check_mark: Desktop - FINALIZADO :white_check_mark: </h4> 
 <h4>:white_check_mark: Mobile - FINALIZADO :white_check_mark: </h4>
 <br>
+
+<h2 align="center">:hammer: Funcionalidades do projeto </h2>
+<p>Ao carregar a página, alterar dinamicamente as imagens, as cores de fundo de acordo com a hora atual do relógio do sistema</p>
+<br>
