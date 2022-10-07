@@ -24,3 +24,10 @@
 <h2 align="center">:hammer: Funcionalidades do projeto </h2>
 <p>Ao carregar a página, alterar dinamicamente as imagens, as cores de fundo de acordo com a hora atual do relógio do sistema</p>
 <br>
+
+<br>
+<h2 align="center"> :computer: Tecnologias utilizadas </h2>
+<p>HTML5</p>
+<p>CSS3</p>
+<p>JavaScript
+<br>
