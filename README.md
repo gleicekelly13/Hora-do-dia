@@ -35,3 +35,7 @@
 <p>JavaScript
 <br>
 
+# :sunglasses: Desenvolvedores do projeto
+
+- Curso em Vídeo
+- [Gleice Kelly Oliveira](https://www.linkedin.com/in/gleicekelly13/)
