@@ -25,6 +25,9 @@
 <p>Ao carregar a página, alterar dinamicamente as imagens, as cores de fundo de acordo com a hora atual do relógio do sistema</p>
 <br>
 
+<h2 align="center"> :file_folder: Acesso ao projeto </h2>
+<p> Você pode acessar o projeto final clicando aqui: https://https://github.com/gleicekelly13/Hora-do-dia</p>
+
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 <p>HTML5</p>
