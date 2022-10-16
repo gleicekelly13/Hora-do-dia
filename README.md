@@ -27,6 +27,12 @@
 
 <h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
 <p>Edição de imagens</p>
+<p>Montar estrutura do site</p>
+<p>Como utilizar o Dom para manipular elementos</p>
+<p>Criação e seleção de objetos</p>
+<p>Alteração dinâmica de imagens e cores</p>
+<p>Como pegar a hora atual do sistema</p>
+<br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://https://github.com/gleicekelly13/Hora-do-dia</p>
