@@ -25,6 +25,9 @@
 <p>Ao carregar a página, alterar dinamicamente as imagens, as cores de fundo de acordo com a hora atual do relógio do sistema</p>
 <br>
 
+<h2 align="center"> :dart: Objetivo de aprendizado/O que aprendi </h2>
+<p>Edição de imagens</p>
+
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
 <p> Você pode acessar o projeto final clicando aqui: https://https://github.com/gleicekelly13/Hora-do-dia</p>
 
