@@ -35,7 +35,7 @@
 <br>
 
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui: https://https://github.com/gleicekelly13/Hora-do-dia</p>
+<p> Você pode acessar o projeto final clicando aqui: https:https://gleicekelly13.github.io/Hora-do-dia/</p>
 
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
